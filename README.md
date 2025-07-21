@@ -1,7 +1,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SS1P)](https://github.com/ryo-ma/github-profile-trophy)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SS1P)
-
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SS1P)
 <!--
 **SS1p/SS1P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
